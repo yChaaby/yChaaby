@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Youssef and I'm a Data Science and AI engineer, from Casablanca</h3>
+<h3 align="left">Hi 👋! My name is Youssef and I'm a Data Science and AI engineering student, from Casablanca</h3>
 
 ###
 
