@@ -41,7 +41,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" title="This is Manal"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" title="Widad"  />
 
 ###
 
