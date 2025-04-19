@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Youssef and I'm a Computer Science student</h3>
+<h3 align="left">Hi 👋! My name is Youssef and I'm a Computer Science student & Safran Intern</h3>
 
 ###
 
